@@ -1,0 +1,17 @@
+﻿<!--We only need to pass in the type-->
+@model List<Movie>
+
+    <div>
+        <h2>List of movies!</h2>
+    </div>
+
+@foreach (Movie m in Model)
+{
+    <br />
+<p>Title: @m.Title </p>
+<p>Genre: @m.Genre.</p>
+<p>Runtime: @m.Runtime.</p>
+<p>
+    Year: @m.Year
+</p>
+}

@@ -8,7 +8,6 @@ C:\Users\CFlynn3\source\repos\Week6_MovieRegistration1\Week6_MovieRegistration1\
 C:\Users\CFlynn3\source\repos\Week6_MovieRegistration1\Week6_MovieRegistration1\bin\Debug\netcoreapp3.1\Week6_MovieRegistration1.pdb
 C:\Users\CFlynn3\source\repos\Week6_MovieRegistration1\Week6_MovieRegistration1\bin\Debug\netcoreapp3.1\Week6_MovieRegistration1.Views.dll
 C:\Users\CFlynn3\source\repos\Week6_MovieRegistration1\Week6_MovieRegistration1\bin\Debug\netcoreapp3.1\Week6_MovieRegistration1.Views.pdb
-C:\Users\CFlynn3\source\repos\Week6_MovieRegistration1\Week6_MovieRegistration1\obj\Debug\netcoreapp3.1\Week6_MovieRegistration1.csproj.AssemblyReference.cache
 C:\Users\CFlynn3\source\repos\Week6_MovieRegistration1\Week6_MovieRegistration1\obj\Debug\netcoreapp3.1\Week6_MovieRegistration1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\CFlynn3\source\repos\Week6_MovieRegistration1\Week6_MovieRegistration1\obj\Debug\netcoreapp3.1\Week6_MovieRegistration1.AssemblyInfoInputs.cache
 C:\Users\CFlynn3\source\repos\Week6_MovieRegistration1\Week6_MovieRegistration1\obj\Debug\netcoreapp3.1\Week6_MovieRegistration1.AssemblyInfo.cs
@@ -38,3 +37,9 @@ C:\Users\CFlynn3\source\repos\Week6_MovieRegistration1\Week6_MovieRegistration1\
 C:\Users\CFlynn3\source\repos\Week6_MovieRegistration1\Week6_MovieRegistration1\obj\Debug\netcoreapp3.1\Week6_MovieRegistration1.genruntimeconfig.cache
 C:\Users\CFlynn3\source\repos\Week6_MovieRegistration1\Week6_MovieRegistration1\obj\Debug\netcoreapp3.1\Week6_MovieRegistration1.csproj.CopyComplete
 C:\Users\CFlynn3\source\repos\Week6_MovieRegistration1\Week6_MovieRegistration1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result.cshtml.g.cs
+C:\Users\CFlynn3\source\repos\Week6_MovieRegistration1\Week6_MovieRegistration1\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\CFlynn3\source\repos\Week6_MovieRegistration1\Week6_MovieRegistration1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\CFlynn3\source\repos\Week6_MovieRegistration1\Week6_MovieRegistration1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CFlynn3\source\repos\Week6_MovieRegistration1\Week6_MovieRegistration1\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Index.cshtml.g.cs
+C:\Users\CFlynn3\source\repos\Week6_MovieRegistration1\Week6_MovieRegistration1\obj\Debug\netcoreapp3.1\Razor\Views\Home\RegisterConfirm.cshtml.g.cs
+C:\Users\CFlynn3\source\repos\Week6_MovieRegistration1\Week6_MovieRegistration1\obj\Debug\netcoreapp3.1\Razor\Views\Movie\List.cshtml.g.cs
